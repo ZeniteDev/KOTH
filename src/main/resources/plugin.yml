@@ -1,0 +1,6 @@
+name: KOTH
+version: '${project.version}'
+main: me.zendev.koth.KOTH
+api-version: 1.16
+authors: [ ZenDev ]
+description: King of The Hill
